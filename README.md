@@ -11,7 +11,7 @@
 <h2>Certifications/Certificates:</h2>
  
   - [Google Cybersecurity Certificate](N/A)
-  - [Cybersecurity Bootcamp Certificate of Completion](N/A)
+  - [Emory University Cybersecurity Bootcamp Certificate of Completion](N/A)
   
 <h2>📺 Popular YouTube Videos</h2>
  
