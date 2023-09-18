@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/CyberJ03/ActiveDirectoryLab)
+- <b>Python</b>
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
