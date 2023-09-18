@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/josephmessam/">Cybersecurity Professional</a>,<a href="https://github.com/joshmadakor1">Programmer</a>,</h1>
+<h1>Hi, I'm Joe! <br/>Cybersecurity Enthusiast,<a href="https://www.linkedin.com/in/josephmessam/">Future Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
