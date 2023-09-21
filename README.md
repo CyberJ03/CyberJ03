@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/CyberJ03/ActiveDirectoryLab)
 - <b>Python</b>
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World!](https://github.com/CyberJ03)
 - <b>Wireshark</b>
   -
 - <b>Runbook</b>
