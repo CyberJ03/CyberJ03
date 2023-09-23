@@ -13,7 +13,7 @@
 
 <h2>Certifications/Certificates:</h2>
  
-  - [Google Cybersecurity Certificate](N/A)
+  - [Google Cybersecurity Certificate](https://www.credly.com/badges/a53184ae-c7cb-4981-9c2e-33d80740545e/linked_in_profile)
   - [Emory University Cybersecurity Bootcamp Certificate](N/A)
   
 <h2> 🤳 Connect with me:</h2>
