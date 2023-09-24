@@ -26,6 +26,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://
-[youtube]: https://
+[youtube]: https://www.youtube.com/channel/UCktlfkdQP_0nbXSmLfF7udw
 [instagram]: https://
 [linkedin]: https://linkedin.com/in/josephmessam/
