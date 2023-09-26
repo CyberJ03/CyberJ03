@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Hello World!](https://github.com/CyberJ03)
 - <b>Wireshark</b>
-  - [Installed and set up Wireshark for non-super users]()
+  - [Installed and set up Wireshark for non-super users](https://github.com/CyberJ03/WiresharkActivity2)
   - [Started a Wireshark capture and detected HTTP packets](https://github.com/CyberJ03/WiresharkActivity1)
 - <b>Runbook</b>
   - [Runbook Example](https://github.com/CyberJ03/Runbook)
