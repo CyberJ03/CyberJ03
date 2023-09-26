@@ -11,7 +11,7 @@
   - [Started a Wireshark capture and detected HTTP packets](https://github.com/CyberJ03/WiresharkActivity1)
 - <b>Runbook</b>
   - [Runbook Example](https://github.com/CyberJ03/Runbook)
-- <b>Bootcamp Capstone</b>
+- <b>Cybersecurity Bootcamp Capstone</b>
   - [Social Engineering Presentation](https://github.com/CyberJ03/CapstoneProject)
 
 <h2>Certifications/Certificates:</h2>
