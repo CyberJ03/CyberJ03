@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/CyberJ03/ActiveDirectoryLab)
 - <b>Python</b>
-  - [Hello World!](https://github.com/CyberJ03)
+  - [Program 1](https://github.com/CyberJ03)
 - <b>Wireshark</b>
   - [Installed and set up Wireshark for non-super users](https://github.com/CyberJ03/WiresharkActivity2)
   - [Started a Wireshark capture and detected HTTP packets](https://github.com/CyberJ03/WiresharkActivity1)
